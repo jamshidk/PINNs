@@ -1,4 +1,5 @@
-## Physics Informed🚀 Neural Networks
+## Physics Informed Neural Networks (PINNs)
+Physics-Informed Neural Networks (PINNs) are designed to solve partial differential equations (PDEs) within a framework of Neural Networks. PDEs describe how a physical quantitiy, such as temperature or stress, evolves over time and space. PINNs aim to learn the solution to a PDE by leveraging neural networks while ensuring the solution adhere to the physical constraints.
 
 Components of a PINN:
 
